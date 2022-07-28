@@ -2,8 +2,8 @@
 
 ## Learning Goals
 
-- Create Python objects using SQL database records
-- Create SQL database records using Python objects
+- Create Python objects using SQL database records.
+- Create SQL database records using Python objects.
 
 ***
 
@@ -67,4 +67,3 @@ course so that you can operate it safely.
 
 - [sqlite3 - DB-API 2.0 interface for SQLite databases - Python](https://docs.python.org/3/library/sqlite3.html)
 - [What is an ORM, how does it work, and how should I use one? - Stack Overflow](https://stackoverflow.com/questions/1279613/what-is-an-orm-how-does-it-work-and-how-should-i-use-one)
-[reused resource]: https://docs.python.org/3/
